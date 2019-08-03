@@ -15,8 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Fridge and Inverter Controller.ino" />
     <None Include="src\arduino folders read me.txt" />
+    <None Include="Fridge and Inverter Controller.ino">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.Fridge and Inverter Controller.vsarduino.h">
